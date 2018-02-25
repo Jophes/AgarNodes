@@ -1,0 +1,15 @@
+{
+  "name": "CheesyAgar",
+  "version": "0.0.0",
+  "description": "Agar clone",
+  "main": "index.js",
+  "author": "Jophes",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
